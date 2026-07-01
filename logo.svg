@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 460" fill="#1e3a7a">
+  <!-- Outer Circle (G shape) -->
+  <path d="M200 20C100.6 20 20 100.6 20 200s80.6 180 180 180c60 0 113-29.4 145.8-74.6V200H220v45h80v20c-24.4 35.6-65 59-111 59C118.2 324 62 267.8 62 200S118.2 76 200 76c45 0 85 20.6 112 53l33-28C311 58 258.4 20 200 20z"/>
+  <!-- M shape inside -->
+  <path d="M155 140v185h45V210l40 55 40-55v115h45V140h-45l-40 58-40-58h-45z"/>
+  <!-- GENAU PVB text -->
+  <text x="200" y="440" text-anchor="middle" font-family="Georgia, serif" font-weight="bold" font-size="52" fill="#1e3a7a">GENAU PVB</text>
+</svg>
